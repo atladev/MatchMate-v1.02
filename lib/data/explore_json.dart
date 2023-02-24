@@ -1,13 +1,13 @@
 const List explore_json = [
   {
     "img": "assets/images/girls/img_1.jpeg",
-    "name": "Ayo",
+    "name": "Amira",
     "age": "20",
     "likes": ["Dancing", "Cooking", "Art"],
   },
   {
     "img": "assets/images/girls/img_2.jpeg",
-    "name": "Rondeau",
+    "name": "Roxanne",
     "age": "18",
     "likes": ["Instagram", "Cooking"],
   },
