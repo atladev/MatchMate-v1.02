@@ -2,13 +2,13 @@
 const List chats_json = [
   {
     "img": "assets/images/girls/img_1.jpeg",
-    "name": "Ayo",
+    "name": "Amira",
     "online": true,
     "story": true,
   },
   {
     "img": "assets/images/girls/img_2.jpeg",
-    "name": "Rondeau",
+    "name": "Roxanne",
     "online": true,
     "story": false,
   },
