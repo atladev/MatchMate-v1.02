@@ -2,9 +2,7 @@
 
 ![App UI](https://user-images.githubusercontent.com/16510597/103899516-18695f80-5129-11eb-8ba1-4a41e089ec46.jpg)
 
-## GET A Full Project Source Code
-
-- [Download Source Code](https://www.patreon.com/posts/50270132)
+## ----------
 
 ![App UI](https://user-images.githubusercontent.com/16510597/116849900-cf7a7100-ac19-11eb-8263-ae459d86d4b7.png)
 
