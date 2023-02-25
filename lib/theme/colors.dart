@@ -4,6 +4,7 @@ const Color white = Colors.white;
 const Color grey = Colors.grey;
 const Color black = Colors.black;
 const Color green = Colors.green;
+const Color blue = Colors.blue;
 const Color primary = Color(0xFFFD5C61);
 
 // gradient
