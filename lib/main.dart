@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tinder_clone/pages/root_app.dart';
+import 'package:MatchMate/pages/root_app.dart';
 
 void main() {
   runApp(MaterialApp(

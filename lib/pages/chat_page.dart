@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:tinder_clone/data/chats_json.dart';
-import 'package:tinder_clone/theme/colors.dart';
+import 'package:MatchMate/data/chats_json.dart';
+import 'package:MatchMate/theme/colors.dart';
 
 class ChatPage extends StatefulWidget {
   @override
