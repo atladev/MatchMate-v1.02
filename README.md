@@ -1,5 +1,5 @@
 # MatchMate
-## Cross-platform Dating App with Flutter + Firebase).
+## Cross-platform Dating App with Flutter + Firebase.
 This is a cross-platform dating app that has been built with the Flutter framework and Google's Firebase backend service. The app allows users to create profiles and view potential matches based on their preferences. It is available on the web, Android, and iOS platforms.
 <br><br>
 
