@@ -4,7 +4,7 @@
 This is a cross-platform dating app that has been built with the Flutter framework and Google's Firebase backend service. The app allows users to create profiles and view potential matches based on their preferences. It is available on the web, Android, and iOS platforms.
 <br><br>
 
-![App UI](https://raw.githubusercontent.com/atladev/MatchMate/master/assets/images/Match%20Mate%20APP%20UI.png)
+![App UI](https://raw.githubusercontent.com/atladev/MatchMate/master/assets/images/readme%20images/image%201.png)
 
 ## Features
 
