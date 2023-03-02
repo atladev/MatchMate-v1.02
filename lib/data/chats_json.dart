@@ -14,7 +14,7 @@ const List chats_json = [
   },
   {
     "img": "assets/images/girls/img_3.jpeg",
-    "name": "Valerie",
+    "name": "Charlotte",
     "online": true,
     "story": true,
   },
@@ -66,7 +66,7 @@ const List chats_json = [
 List userMessages = [
   {
     "id": 1,
-    "name": "Ayo",
+    "name": "Amira",
     "img": "assets/images/girls/img_1.jpeg",
     "online": true,
     "story": true,
@@ -74,7 +74,7 @@ List userMessages = [
     "created_at": "1:00 pm"
   },
   {
-    "name": "Rondeau",
+    "name": "Roxanne",
     "img": "assets/images/girls/img_2.jpeg",
     "online": true,
     "story": false,
@@ -83,7 +83,7 @@ List userMessages = [
   },
   {
     "id": 3,
-    "name": "Valerie",
+    "name": "Charlotte",
     "img": "assets/images/girls/img_3.jpeg",
     "online": true,
     "story": true,

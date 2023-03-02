@@ -13,7 +13,7 @@ const List explore_json = [
   },
   {
     "img": "assets/images/girls/img_3.jpeg",
-    "name": "Valerie",
+    "name": "Charlotte",
     "age": "22",
     "likes": ["Instagram", "Netflix", "Comedy"],
   },
