@@ -8,7 +8,7 @@ const List explore_json = [
   {
     "img": "assets/images/girls/img_2.jpeg",
     "name": "Roxanne",
-    "age": "18",
+    "age": "19",
     "likes": ["Instagram", "Cooking"],
   },
   {
@@ -49,7 +49,7 @@ const List explore_json = [
   },
   {
     "img": "assets/images/girls/img_9.jpeg",
-    "name": "Campbell",
+    "name": "Alice",
     "age": "18",
     "likes": ["Swimming", "Working Out"],
   },
