@@ -20,7 +20,7 @@ This is a cross-platform dating app that has been built with the Flutter framewo
 
 ## Technologies used
 
-- Flutter 2.10.0 - Google's mobile app development framework.
+- Flutter 2.8.0 - Google's mobile app development framework.
 
 - Firebase Authentication - User authentication service.
 
