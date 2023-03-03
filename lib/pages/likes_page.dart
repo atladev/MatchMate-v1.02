@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:MatchMate/data/likes_json.dart';
-import 'package:MatchMate/theme/colors.dart';
+import 'package:match_mate/data/likes_json.dart';
+import 'package:match_mate/theme/colors.dart';
 
 class LikesPage extends StatefulWidget {
   @override

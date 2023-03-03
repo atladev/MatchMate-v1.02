@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:flutter_tindercard/flutter_tindercard.dart';
-import 'package:MatchMate/data/explore_json.dart';
-import 'package:MatchMate/data/icons.dart';
-import 'package:MatchMate/theme/colors.dart';
+import 'package:match_mate/data/explore_json.dart';
+import 'package:match_mate/data/icons.dart';
+import 'package:match_mate/theme/colors.dart';
 
 class ExplorePage extends StatefulWidget {
   @override

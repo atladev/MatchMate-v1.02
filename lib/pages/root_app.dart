@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:MatchMate/pages/account_page.dart';
-import 'package:MatchMate/pages/chat_page.dart';
-import 'package:MatchMate/pages/explore_page.dart';
-import 'package:MatchMate/pages/likes_page.dart';
+import 'package:match_mate/pages/account_page.dart';
+import 'package:match_mate/pages/chat_page.dart';
+import 'package:match_mate/pages/explore_page.dart';
+import 'package:match_mate/pages/likes_page.dart';
 
 class RootPage extends StatefulWidget {
   @override

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_custom_clippers/flutter_custom_clippers.dart';
-import 'package:MatchMate/data/account_json.dart';
-import 'package:MatchMate/theme/colors.dart';
+import 'package:match_mate/data/account_json.dart';
+import 'package:match_mate/theme/colors.dart';
 
 class AccountPage extends StatefulWidget {
   @override

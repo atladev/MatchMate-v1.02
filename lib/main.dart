@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:MatchMate/pages/root_app.dart';
+import 'package:match_mate/pages/root_app.dart';
 
 void main() {
   runApp(MaterialApp(
