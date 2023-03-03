@@ -1,4 +1,0 @@
-#Sun Feb 26 13:09:51 GMT 2023
-base.0=C\:\\Users\\eduar\\Downloads\\projetos prog\\MatchMate\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
