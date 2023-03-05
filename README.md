@@ -35,7 +35,7 @@ This is a cross-platform dating app that has been built with the Flutter framewo
 
 To run the project on your machine, you will need to follow these steps:
 
-1. Clone the repository to your machine: git clone https://github.com/your-username/repository-name.git.
+1. Clone the repository to your machine: git clone https://github.com/atladev/MatchMate
 2. Set up your Firebase project, following the instructions in the Firebase documentation.
 3. Add your Firebase credentials to your Flutter project. This can be done by creating a google-services.json file in the android/app folder and a GoogleService-Info.plist file in the ios/Runner folder (for iOS devices).
 4. Install the project dependencies by running flutter pub get.
