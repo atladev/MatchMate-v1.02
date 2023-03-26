@@ -189,7 +189,7 @@ class _AccountPageState extends State<AccountPage> {
                         height: 10,
                       ),
                       Text(
-                        "EDIT INFO",
+                        "EDIT BIO",
                         style: TextStyle(
                             fontSize: 12,
                             fontWeight: FontWeight.w600,
