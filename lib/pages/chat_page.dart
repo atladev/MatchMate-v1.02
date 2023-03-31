@@ -66,7 +66,7 @@ class _ChatPageState extends State<ChatPage> {
                     Icons.search,
                     color: black.withOpacity(0.5),
                   ),
-                  hintText: "Search 0 Matches"),
+                  hintText: "Search 10 Matches"),
             ),
           ),
         ),
