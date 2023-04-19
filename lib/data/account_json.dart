@@ -1,3 +1,3 @@
 const List account_json = [
-  {"img": "assets/images/profile.png", "name": "Eduardo", "age": "23"}
+  {"img": "assets/images/profile.png", "name": "AtlaDev", "age": "23"}
 ];
